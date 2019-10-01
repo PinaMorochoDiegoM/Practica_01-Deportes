@@ -4,7 +4,7 @@ package Secundaria;
  * 
  * @author Piña Diego 
  * @version 01/10/2019
- * @see <a href = "https://github.com/PinaMorochoDiegoM/Pratica01PinaDiego/tree/master/src/ec/edu/ups" > GitHub.com – Practica 01 Deportes </a>
+ * @see <a href = "https://github.com/PinaMorochoDiegoM?tab=repositories" > GitHub.com – Practica 01 Deportes </a>
  * 
  */
 public class Articulo {
